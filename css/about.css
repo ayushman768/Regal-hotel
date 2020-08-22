@@ -1,0 +1,24 @@
+.bg-4 {
+    background-image: url(../img/AIR-condition-Economy-hotel-regal-bus-stand-road-bilaspur-chhattisgarh-hotels-o26fx06.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: rgb(255 255 255);
+    position: relative;
+    top: -160px;
+    width: 100%;
+    background-position: center;
+    /* display: block; */
+}
+
+.item img {
+    width: 100%!important;
+    height: 532px!important;
+}
+
+@media (max-width:1024px) {
+    .item img {
+        width: 100%!important;
+        height: 307px!important;
+    }
+}
